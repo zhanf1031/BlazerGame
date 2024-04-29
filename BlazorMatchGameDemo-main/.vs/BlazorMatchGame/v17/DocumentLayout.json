@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\themy\\OneDrive\\Documents\\All Files\\Northeastern Files\\DGM6308\\BlazorMatchGameDemo\\BlazorMatchGameDemo-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{552C0D3B-E326-4F6D-8938-462B8B89097A}|BlazorMatchGame\\BlazorMatchGame.csproj|c:\\users\\themy\\onedrive\\documents\\all files\\northeastern files\\dgm6308\\blazormatchgamedemo\\blazormatchgamedemo-main\\blazormatchgame\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{552C0D3B-E326-4F6D-8938-462B8B89097A}|BlazorMatchGame\\BlazorMatchGame.csproj|solutionrelative:blazormatchgame\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552C0D3B-E326-4F6D-8938-462B8B89097A}|BlazorMatchGame\\BlazorMatchGame.csproj|c:\\users\\themy\\onedrive\\documents\\all files\\northeastern files\\dgm6308\\blazormatchgamedemo\\blazormatchgamedemo-main\\blazormatchgame\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{552C0D3B-E326-4F6D-8938-462B8B89097A}|BlazorMatchGame\\BlazorMatchGame.csproj|solutionrelative:blazormatchgame\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552C0D3B-E326-4F6D-8938-462B8B89097A}|BlazorMatchGame\\BlazorMatchGame.csproj|c:\\users\\themy\\onedrive\\documents\\all files\\northeastern files\\dgm6308\\blazormatchgamedemo\\blazormatchgamedemo-main\\blazormatchgame\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{552C0D3B-E326-4F6D-8938-462B8B89097A}|BlazorMatchGame\\BlazorMatchGame.csproj|solutionrelative:blazormatchgame\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552C0D3B-E326-4F6D-8938-462B8B89097A}|BlazorMatchGame\\BlazorMatchGame.csproj|c:\\users\\themy\\onedrive\\documents\\all files\\northeastern files\\dgm6308\\blazormatchgamedemo\\blazormatchgamedemo-main\\blazormatchgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552C0D3B-E326-4F6D-8938-462B8B89097A}|BlazorMatchGame\\BlazorMatchGame.csproj|solutionrelative:blazormatchgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552C0D3B-E326-4F6D-8938-462B8B89097A}|BlazorMatchGame\\BlazorMatchGame.csproj|c:\\users\\themy\\onedrive\\documents\\all files\\northeastern files\\dgm6308\\blazormatchgamedemo\\blazormatchgamedemo-main\\blazormatchgame\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{552C0D3B-E326-4F6D-8938-462B8B89097A}|BlazorMatchGame\\BlazorMatchGame.csproj|solutionrelative:blazormatchgame\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\themy\\OneDrive\\Documents\\All Files\\Northeastern Files\\DGM6308\\BlazorMatchGameDemo\\BlazorMatchGameDemo-main\\BlazorMatchGame\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "BlazorMatchGame\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\themy\\OneDrive\\Documents\\All Files\\Northeastern Files\\DGM6308\\BlazorMatchGameDemo\\BlazorMatchGameDemo-main\\BlazorMatchGame\\Pages\\Index.razor",
+              "RelativeToolTip": "BlazorMatchGame\\Pages\\Index.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T14:22:42.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FetchData.razor",
+              "DocumentMoniker": "C:\\Users\\themy\\OneDrive\\Documents\\All Files\\Northeastern Files\\DGM6308\\BlazorMatchGameDemo\\BlazorMatchGameDemo-main\\BlazorMatchGame\\Pages\\FetchData.razor",
+              "RelativeDocumentMoniker": "BlazorMatchGame\\Pages\\FetchData.razor",
+              "ToolTip": "C:\\Users\\themy\\OneDrive\\Documents\\All Files\\Northeastern Files\\DGM6308\\BlazorMatchGameDemo\\BlazorMatchGameDemo-main\\BlazorMatchGame\\Pages\\FetchData.razor",
+              "RelativeToolTip": "BlazorMatchGame\\Pages\\FetchData.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T14:22:41.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\themy\\OneDrive\\Documents\\All Files\\Northeastern Files\\DGM6308\\BlazorMatchGameDemo\\BlazorMatchGameDemo-main\\BlazorMatchGame\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorMatchGame\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\themy\\OneDrive\\Documents\\All Files\\Northeastern Files\\DGM6308\\BlazorMatchGameDemo\\BlazorMatchGameDemo-main\\BlazorMatchGame\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorMatchGame\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T14:22:40.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\themy\\OneDrive\\Documents\\All Files\\Northeastern Files\\DGM6308\\BlazorMatchGameDemo\\BlazorMatchGameDemo-main\\BlazorMatchGame\\App.razor",
+              "RelativeDocumentMoniker": "BlazorMatchGame\\App.razor",
+              "ToolTip": "C:\\Users\\themy\\OneDrive\\Documents\\All Files\\Northeastern Files\\DGM6308\\BlazorMatchGameDemo\\BlazorMatchGameDemo-main\\BlazorMatchGame\\App.razor",
+              "RelativeToolTip": "BlazorMatchGame\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T14:22:13.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\themy\\OneDrive\\Documents\\All Files\\Northeastern Files\\DGM6308\\BlazorMatchGameDemo\\BlazorMatchGameDemo-main\\BlazorMatchGame\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorMatchGame\\Program.cs",
+              "ToolTip": "C:\\Users\\themy\\OneDrive\\Documents\\All Files\\Northeastern Files\\DGM6308\\BlazorMatchGameDemo\\BlazorMatchGameDemo-main\\BlazorMatchGame\\Program.cs",
+              "RelativeToolTip": "BlazorMatchGame\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:22:10.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
